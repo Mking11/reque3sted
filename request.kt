@@ -1,6 +1,12 @@
 Kotlin
 // --- src/main/java/com/yourpackage/data/UserRepository.kt ---
 
+play store links 
+Jemla - B2B E-commerce Platform: https://play.google.com/store/apps/details?id=com.mad.jemla
+Kasi : https://play.google.com/store/apps/details?id=money.kasi.android
+
+Flx - https://play.google.com/store/apps/details?id=com.mking11.flx
+
 import kotlinx.coroutines.delay
 
 data class User(
